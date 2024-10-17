@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.uptimemonster.com/status-page/nY8xNBRW4zqg/$1"
+ }
+  ]
+}
